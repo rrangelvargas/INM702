@@ -1,0 +1,3 @@
+.venv/
+data/brain_mri/*
+data/brain_mri
